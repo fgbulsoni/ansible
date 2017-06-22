@@ -1,5 +1,6 @@
 boto
 boto3
+hpOneView ; python_version >= '2.7'
 placebo
 jinja2
 mock
