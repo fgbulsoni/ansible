@@ -1,5 +1,6 @@
 boto
 boto3
+hpOneView ; python_version >= '2.7'
 placebo
 jinja2
 mock
@@ -21,6 +22,3 @@ ipaddress
 f5-sdk ; python_version >= '2.7'
 f5-icontrol-rest ; python_version >= '2.7'
 deepdiff
-
-# requirements for HPE OneView specific modules
-hpOneView
